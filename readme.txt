@@ -1,6 +1,5 @@
 === Sudoku ===
 Contributors: bcaudan
-Donate link: http://bastien.caudan.net
 Tags: widget, game, fun
 Requires at least: 2.5.1
 Tested up to: 2.6.1
@@ -13,7 +12,6 @@ widget allowing to generate Sudoku grids in the sidebar.
 widget allowing to generate Sudoku grids that you could directly complete on the sidebar.
 
 It's possible to customize :
-
     * dimension of the grid
     * position of the grid
     * color of the grid
