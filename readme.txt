@@ -12,11 +12,13 @@ widget allowing to generate Sudoku grids in the sidebar.
 widget allowing to generate Sudoku grids that you could directly complete on the sidebar.
 
 It's possible to customize :
+
     * dimension of the grid
     * position of the grid
     * color of the grid
     * color of numbers
     * size of numbers
+
 
 Three levels of difficulties are available and several grids can be inserted in one sidebar.
 
