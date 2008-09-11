@@ -1,0 +1,49 @@
+#sudoku{
+text-align: center;
+}
+
+#sudoku .reglig{
+height: 31%;
+}
+
+#sudoku .region{
+width: 32%;
+float: left;
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+
+#sudoku .ligne{
+width: 100%;
+height: 29%;
+margin: 0;
+padding: 0;
+}
+
+#sudoku .casedeb, #sudoku .case{
+border-width: 1px;
+border-style: solid;
+float: left;
+width: 28%;
+height: 100%;
+margin: 0;
+padding: 0;
+font-weight: bold;
+font-size: inherit;
+}
+
+#sudoku .case input {
+border: none;
+background-color: transparent;
+width: 98%;
+height: 98%;
+text-align: center;
+margin: 0;
+padding: 0;
+font-weight: normal;
+font-size: inherit;
+}
+
+
