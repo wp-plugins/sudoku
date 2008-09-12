@@ -3,7 +3,7 @@ Contributors: bcaudan
 Tags: widget, game, fun
 Requires at least: 2.5.1
 Tested up to: 2.6.1
-Stable tag: 1.4
+Stable tag: 1.5
 
 Widget allowing to generate Sudoku grids in the sidebar.
 
